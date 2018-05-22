@@ -1,0 +1,7 @@
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.exe.config
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.exe
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.pdb
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.exe
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.pdb
+C:\Users\mathi\Documents\Visual Studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.csprojAssemblyReference.cache
